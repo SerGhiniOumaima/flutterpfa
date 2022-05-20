@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332015142176",
+    "project_id": "maladie-peau",
+    "storage_bucket": "maladie-peau.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332015142176:android:d7f2e4f497e1045062c345",
+        "android_client_info": {
+          "package_name": "com.example.maladieproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332015142176-qufov9up8ijqfj0kti9kgvk12r7q44ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIpMnZLTL34Lz3TBvhiYRtnT15xtqjjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332015142176-qufov9up8ijqfj0kti9kgvk12r7q44ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
